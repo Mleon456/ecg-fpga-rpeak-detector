@@ -1,0 +1,38 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.xpr
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/sources_1/bd/
+*.gen/
+*.data/
+webtalk*
+vivado*.backup.jou
+vivado*.backup.log
+.Xil
+
+# Bitstream (optional - comment out if you WANT to share compiled bitstreams)
+# *.bit
+
+# STM32CubeIDE generated files
+Debug/
+Release/
+*.launch
+.metadata/
+.settings/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
