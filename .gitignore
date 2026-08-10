@@ -2,7 +2,7 @@
 *.jou
 *.log
 *.str
-*.xpr
+# *.xpr
 .Xil/
 *.cache/
 *.hw/
@@ -36,3 +36,14 @@ venv/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Vivado build artifacts
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+*.jou
+*.log
+*.str
+.Xil/
